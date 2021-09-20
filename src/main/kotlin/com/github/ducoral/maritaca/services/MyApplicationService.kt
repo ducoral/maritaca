@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ducoral.maritaca.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ducoral.maritaca.MyBundle
 
 class MyApplicationService {
 
